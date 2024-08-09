@@ -16,9 +16,26 @@ compares the players for selecting for final 11 top players based on following m
      - **Bowling Average:** No. of runs allowed per wicket .
 
 # Screenshots
+- **Power Hitters**<br>
 ![Power Hitters](https://github.com/bhavesa16/Cricket-Data-Analysis/blob/master/power%20hitters.png)
+<br>
+
+- **Anchors**<br>
 ![Anchors](https://github.com/bhavesa16/Cricket-Data-Analysis/blob/master/anchors.png)
+<br>
+
+- **Finishers**<br>
 ![Finishers](https://github.com/bhavesa16/Cricket-Data-Analysis/blob/master/finishers.png)
+<br>
+
+- **All Rounders**<br>
 ![All rounders](https://github.com/bhavesa16/Cricket-Data-Analysis/blob/master/All%20rounders.png)
+<br>
+
+- **Specialist Fast Bowlers**<br>
 ![Fast bowlers](https://github.com/bhavesa16/Cricket-Data-Analysis/blob/master/specialist%20fast%20bowlers.png)
+<br>
+
+- **Final 11**<br>
 ![Final 11](https://github.com/bhavesa16/Cricket-Data-Analysis/blob/master/Final%2011.png)
+
